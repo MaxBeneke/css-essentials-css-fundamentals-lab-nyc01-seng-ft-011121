@@ -10,7 +10,7 @@ h1 {
 
 nav {
   position: absolute;
-  center: 50%;
+  left: 50%;
 }
 
 nav a {
