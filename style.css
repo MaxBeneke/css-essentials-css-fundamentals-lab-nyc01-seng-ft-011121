@@ -10,7 +10,8 @@ h1 {
 
 nav {
   position: absolute;
-  align-content: center;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 nav a {
